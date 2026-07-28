@@ -48,7 +48,7 @@ Cleaned data in excel image = <img width="1901" height="787" alt="cleaned data i
 Pivot table image = <img width="1901" height="797" alt="pivot table" src="https://github.com/user-attachments/assets/1fef2ae3-d91e-4543-93a0-b9ed2c608e2b" />
 
 
-File 
+File  <a href="[https://github.com/spvertex11-data/Quick_Bite_Food_Delivery/blob/main/Quick_Bite.xlsx](https://github.com/spvertex11-data/Super-Store-Sales-Dashboard-using-Excel-Power-Query/blob/main/Super_Store_Sales.xlsx)"
 
 
 
