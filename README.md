@@ -37,214 +37,45 @@ Pivot Charts
         ▼
 Interactive Dashboard
 
-📁 Step 1 – Import Raw Data
+🚀 Features
+Imported raw sales dataset into Excel
+Performed data cleaning and transformation using Power Query
+Corrected data types and standardized date formats
+Created Pivot Tables for business analysis
+Designed KPI cards for key metrics
+Built interactive charts for sales, region, category, and customer insights
+Added slicers for Region and Year filtering
+Developed a fully interactive Excel dashboard
+Automated reporting using Power Query refresh
 
-The project begins with an unstructured Super Store sales dataset containing customer, product, shipping, and sales information.
-
-Dataset Includes
-Row ID
-Order ID
-Order Date
-Ship Date
-Ship Mode
-Customer ID
-Customer Name
-Segment
-Country
-City
-State
-Postal Code
-Region
-Product ID
-Category
-Sub-Category
-Product Name
-Sales
-Quantity
-Discount
-Profit
-
-
-🧹 Step 2 – Data Cleaning using Power Query
-
-The dataset was imported into Power Query Editor for ETL processing.
-
-Cleaning Activities
-Promoted first row as headers.
-Corrected data types.
-Converted Order Date to Date format.
-Converted Ship Date to Date format.
-Applied locale-specific date conversion.
-Removed incorrect formatting.
-Validated numeric fields.
-Removed unnecessary rows and columns.
-Ensured data consistency.
-
-
-🔧 Step 3 – Data Transformation
-
-The cleaned data was transformed into an analysis-ready dataset.
-
-Transformations Performed
-Converted text to proper data types.
-Formatted date columns.
-Structured the dataset for Pivot Tables.
-Loaded the transformed data into Excel as an Excel Table.
-
-
-📋 Step 4 – Load Clean Data
-
-The processed data was loaded into Excel.
-
-Final Dataset
-
-The cleaned table contains:
-
-Order ID
-Customer Name
-Region
-City
-Category
-Ship Mode
-Sales
-Quantity
-Profit
-Order Date
-Ship Date
-
-This serves as the master data source for analysis.
-
-📊 Step 5 – Create Pivot Tables
-
-Multiple Pivot Tables were created to summarize business performance.
-
-KPI Summary
-Total Sales
-Total Quantity
-Total Orders
-Average Sales
-Ship Mode Analysis
-First Class
-Second Class
-Same Day
-Standard Class
-Regional Analysis
-East
-West
-South
-Central
-Monthly Analysis
-January
-February
-March
-…
-December
-Category Analysis
-Furniture
-Office Supplies
-Technology
-Customer Segment Analysis
-Consumer
-Corporate
-Home Office
-City Analysis
-
-Top-performing cities based on sales.
-
-📈 Step 6 – Create Dashboard Visualizations
-
-The Pivot Tables were converted into interactive charts.
-
-Charts Included
-KPI Cards
-Pie Chart – Ship Mode Sales %
-Doughnut Chart – Region-wise Transactions
-Line Chart – Monthly Quantity Ordered
-Column Chart – Top 5 Cities by Sales
-Horizontal Bar Chart – Category-wise Transactions
-Horizontal Bar Chart – Customer Segment Quantity
-
-
-🎛️ Step 7 – Add Interactive Slicers
-
-Slicers were added for dynamic filtering.
-
-Filters
-Region
-Year
-
-Users can instantly filter the dashboard to analyze specific regions or years.
-
-📌 Dashboard KPIs
-
-The dashboard displays the following key performance indicators:
-
+📈 Dashboard KPIs
 Total Sales
 Average Sales
 Total Transactions
 Total Quantity Ordered
 
-
 📊 Dashboard Insights
+Ship Mode Sales Distribution
+Region-wise Transactions
+Monthly Quantity Ordered
+Top 5 Cities by Sales
+Category-wise Transactions
+Customer Segment Analysis
 
-The dashboard enables analysis of:
-
-Sales Performance
-Overall sales
-Average sales
-Transaction volume
-Shipping Analysis
-Sales by shipping mode
-Distribution of shipping methods
-Regional Performance
-Transactions by region
-Regional contribution
-Monthly Trends
-Monthly quantity ordered
-Seasonal sales trends
-Product Performance
-Sales by category
-Category contribution
-Customer Analysis
-Quantity by customer segment
-Consumer behavior
-Geographic Analysis
-Top-performing cities
-Regional sales comparison
-
-
-🛠️ Technologies Used
+🛠️ Tools & Technologies
 Microsoft Excel
 Power Query
 Pivot Tables
 Pivot Charts
-Excel Dashboard
-Slicers
-Data Cleaning
+Dashboard Design
 ETL
-Data Transformation
-Business Intelligence
-Data Visualization
-
-
-💼 Skills Demonstrated
-Microsoft Excel
-Power Query (M)
-ETL (Extract, Transform, Load)
 Data Cleaning
-Data Transformation
-Data Validation
-Pivot Tables
-Pivot Charts
-Interactive Dashboard Design
-KPI Reporting
 Business Intelligence
 Data Visualization
-Slicers & Filtering
-Excel Table Management
 
-
-
-
-
+💡 Business Value
+Automates data preparation with Power Query
+Provides interactive analysis through slicers and charts
+Enables faster reporting and decision-making
+Reduces manual effort in preparing business reports
 
