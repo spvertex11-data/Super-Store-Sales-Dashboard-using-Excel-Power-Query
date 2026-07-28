@@ -37,6 +37,23 @@ Pivot Charts
         ▼
 Interactive Dashboard
 
+Super_Sales_Dashbord image = <img width="1450" height="590" alt="Super_Sales_Dashbord image" src="https://github.com/user-attachments/assets/d57db42f-2790-43f2-917b-6b2b4b85080c" />
+
+Unstructured Data image =  <img width="1902" height="701" alt="unstructured data" src="https://github.com/user-attachments/assets/3dafb0e2-5499-4fff-8822-b2ab69ca3982" />
+
+Cleaning Unstructured Data image = <img width="1917" height="1077" alt="cleaning unstructured data" src="https://github.com/user-attachments/assets/504d4cec-b0de-4486-a68b-c0df70e18c3f" />
+
+Cleaned data in excel image = <img width="1901" height="787" alt="cleaned data in excel" src="https://github.com/user-attachments/assets/6380d99f-0639-42d5-857b-741600a74dda" />
+
+Pivot table image = <img width="1901" height="797" alt="pivot table" src="https://github.com/user-attachments/assets/1fef2ae3-d91e-4543-93a0-b9ed2c608e2b" />
+
+
+File 
+
+
+
+
+
 🚀 Features
 Imported raw sales dataset into Excel
 Performed data cleaning and transformation using Power Query
